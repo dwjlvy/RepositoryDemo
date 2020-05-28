@@ -905,8 +905,8 @@
     },
     "RepositoryDemo.Domain/1.0.0": {
       "type": "project",
-      "path": "../RepositoryDemo.Entity/RepositoryDemo.Domain.csproj",
-      "msbuildProject": "../RepositoryDemo.Entity/RepositoryDemo.Domain.csproj"
+      "path": "../RepositoryDemo.Domain/RepositoryDemo.Domain.csproj",
+      "msbuildProject": "../RepositoryDemo.Domain/RepositoryDemo.Domain.csproj"
     },
     "RepositoryDemo.Service/1.0.0": {
       "type": "project",
@@ -953,8 +953,8 @@
             "E:\\JavaProject\\Other\\VS\\RepositoryDemo\\RepositoryDemo.Core\\RepositoryDemo.Core.csproj": {
               "projectPath": "E:\\JavaProject\\Other\\VS\\RepositoryDemo\\RepositoryDemo.Core\\RepositoryDemo.Core.csproj"
             },
-            "E:\\JavaProject\\Other\\VS\\RepositoryDemo\\RepositoryDemo.Entity\\RepositoryDemo.Domain.csproj": {
-              "projectPath": "E:\\JavaProject\\Other\\VS\\RepositoryDemo\\RepositoryDemo.Entity\\RepositoryDemo.Domain.csproj"
+            "E:\\JavaProject\\Other\\VS\\RepositoryDemo\\RepositoryDemo.Domain\\RepositoryDemo.Domain.csproj": {
+              "projectPath": "E:\\JavaProject\\Other\\VS\\RepositoryDemo\\RepositoryDemo.Domain\\RepositoryDemo.Domain.csproj"
             },
             "E:\\JavaProject\\Other\\VS\\RepositoryDemo\\RepositoryDemo.Service\\RepositoryDemo.Service.csproj": {
               "projectPath": "E:\\JavaProject\\Other\\VS\\RepositoryDemo\\RepositoryDemo.Service\\RepositoryDemo.Service.csproj"

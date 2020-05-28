@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RepositoryDemo.Core", "Repo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepositoryDemo.Service", "RepositoryDemo.Service\RepositoryDemo.Service.csproj", "{459C097F-4A1D-4CE3-A0D1-577BD5093866}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepositoryDemo.Domain", "RepositoryDemo.Entity\RepositoryDemo.Domain.csproj", "{4993002E-4A39-4C9A-BDA3-08941B9D341E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepositoryDemo.Domain", "RepositoryDemo.Domain\RepositoryDemo.Domain.csproj", "{4993002E-4A39-4C9A-BDA3-08941B9D341E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

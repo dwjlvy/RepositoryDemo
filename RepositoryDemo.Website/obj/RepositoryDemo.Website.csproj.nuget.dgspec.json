@@ -68,14 +68,14 @@
         }
       }
     },
-    "E:\\JavaProject\\Other\\VS\\RepositoryDemo\\RepositoryDemo.Entity\\RepositoryDemo.Domain.csproj": {
+    "E:\\JavaProject\\Other\\VS\\RepositoryDemo\\RepositoryDemo.Domain\\RepositoryDemo.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\JavaProject\\Other\\VS\\RepositoryDemo\\RepositoryDemo.Entity\\RepositoryDemo.Domain.csproj",
+        "projectUniqueName": "E:\\JavaProject\\Other\\VS\\RepositoryDemo\\RepositoryDemo.Domain\\RepositoryDemo.Domain.csproj",
         "projectName": "RepositoryDemo.Domain",
-        "projectPath": "E:\\JavaProject\\Other\\VS\\RepositoryDemo\\RepositoryDemo.Entity\\RepositoryDemo.Domain.csproj",
+        "projectPath": "E:\\JavaProject\\Other\\VS\\RepositoryDemo\\RepositoryDemo.Domain\\RepositoryDemo.Domain.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "E:\\JavaProject\\Other\\VS\\RepositoryDemo\\RepositoryDemo.Entity\\obj\\",
+        "outputPath": "E:\\JavaProject\\Other\\VS\\RepositoryDemo\\RepositoryDemo.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -166,8 +166,8 @@
               "E:\\JavaProject\\Other\\VS\\RepositoryDemo\\RepositoryDemo.Core\\RepositoryDemo.Core.csproj": {
                 "projectPath": "E:\\JavaProject\\Other\\VS\\RepositoryDemo\\RepositoryDemo.Core\\RepositoryDemo.Core.csproj"
               },
-              "E:\\JavaProject\\Other\\VS\\RepositoryDemo\\RepositoryDemo.Entity\\RepositoryDemo.Domain.csproj": {
-                "projectPath": "E:\\JavaProject\\Other\\VS\\RepositoryDemo\\RepositoryDemo.Entity\\RepositoryDemo.Domain.csproj"
+              "E:\\JavaProject\\Other\\VS\\RepositoryDemo\\RepositoryDemo.Domain\\RepositoryDemo.Domain.csproj": {
+                "projectPath": "E:\\JavaProject\\Other\\VS\\RepositoryDemo\\RepositoryDemo.Domain\\RepositoryDemo.Domain.csproj"
               }
             }
           }
@@ -231,8 +231,8 @@
               "E:\\JavaProject\\Other\\VS\\RepositoryDemo\\RepositoryDemo.Core\\RepositoryDemo.Core.csproj": {
                 "projectPath": "E:\\JavaProject\\Other\\VS\\RepositoryDemo\\RepositoryDemo.Core\\RepositoryDemo.Core.csproj"
               },
-              "E:\\JavaProject\\Other\\VS\\RepositoryDemo\\RepositoryDemo.Entity\\RepositoryDemo.Domain.csproj": {
-                "projectPath": "E:\\JavaProject\\Other\\VS\\RepositoryDemo\\RepositoryDemo.Entity\\RepositoryDemo.Domain.csproj"
+              "E:\\JavaProject\\Other\\VS\\RepositoryDemo\\RepositoryDemo.Domain\\RepositoryDemo.Domain.csproj": {
+                "projectPath": "E:\\JavaProject\\Other\\VS\\RepositoryDemo\\RepositoryDemo.Domain\\RepositoryDemo.Domain.csproj"
               },
               "E:\\JavaProject\\Other\\VS\\RepositoryDemo\\RepositoryDemo.Service\\RepositoryDemo.Service.csproj": {
                 "projectPath": "E:\\JavaProject\\Other\\VS\\RepositoryDemo\\RepositoryDemo.Service\\RepositoryDemo.Service.csproj"
