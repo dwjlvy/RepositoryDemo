@@ -1,0 +1,13 @@
+﻿CREATE TABLE   t_account (
+	 f_id   int NOT NULL,
+	 f_account   varchar (50) NOT NULL,
+	 f_password   varchar (50) NOT NULL,
+	 f_lastlogintime   datetime  NULL,
+  PRIMARY KEY   
+(
+	 f_id  
+)) ; 
+
+
+
+insert into t_account( f_id,f_account,f_password ) values (1,"test","1234");

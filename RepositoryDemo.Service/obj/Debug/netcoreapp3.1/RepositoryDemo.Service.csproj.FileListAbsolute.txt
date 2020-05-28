@@ -1,0 +1,14 @@
+E:\JavaProject\Other\VS\RepositoryDemo\RepositoryDemo.Service\obj\Debug\netcoreapp3.1\RepositoryDemo.Service.csprojAssemblyReference.cache
+E:\JavaProject\Other\VS\RepositoryDemo\RepositoryDemo.Service\obj\Debug\netcoreapp3.1\RepositoryDemo.Service.AssemblyInfoInputs.cache
+E:\JavaProject\Other\VS\RepositoryDemo\RepositoryDemo.Service\obj\Debug\netcoreapp3.1\RepositoryDemo.Service.AssemblyInfo.cs
+E:\JavaProject\Other\VS\RepositoryDemo\RepositoryDemo.Service\obj\Debug\netcoreapp3.1\RepositoryDemo.Service.csproj.CoreCompileInputs.cache
+E:\JavaProject\Other\VS\RepositoryDemo\RepositoryDemo.Service\bin\Debug\netcoreapp3.1\RepositoryDemo.Service.deps.json
+E:\JavaProject\Other\VS\RepositoryDemo\RepositoryDemo.Service\bin\Debug\netcoreapp3.1\RepositoryDemo.Service.dll
+E:\JavaProject\Other\VS\RepositoryDemo\RepositoryDemo.Service\bin\Debug\netcoreapp3.1\RepositoryDemo.Service.pdb
+E:\JavaProject\Other\VS\RepositoryDemo\RepositoryDemo.Service\bin\Debug\netcoreapp3.1\RepositoryDemo.Core.dll
+E:\JavaProject\Other\VS\RepositoryDemo\RepositoryDemo.Service\bin\Debug\netcoreapp3.1\RepositoryDemo.Domain.dll
+E:\JavaProject\Other\VS\RepositoryDemo\RepositoryDemo.Service\bin\Debug\netcoreapp3.1\RepositoryDemo.Core.pdb
+E:\JavaProject\Other\VS\RepositoryDemo\RepositoryDemo.Service\bin\Debug\netcoreapp3.1\RepositoryDemo.Domain.pdb
+E:\JavaProject\Other\VS\RepositoryDemo\RepositoryDemo.Service\obj\Debug\netcoreapp3.1\RepositoryDemo.Service.csproj.CopyComplete
+E:\JavaProject\Other\VS\RepositoryDemo\RepositoryDemo.Service\obj\Debug\netcoreapp3.1\RepositoryDemo.Service.dll
+E:\JavaProject\Other\VS\RepositoryDemo\RepositoryDemo.Service\obj\Debug\netcoreapp3.1\RepositoryDemo.Service.pdb
